@@ -11,8 +11,10 @@ on simulated gravitational-wave data.
 Gopal Ale Magar  
 University of Bologna (Astrophysics and Cosmology)
 
-## Supervisors
-- Prof. Elena Cuoco  
+## Supervisor
+- Prof. Elena Cuoco
+
+## Co-supervisors
 - Dr. Antonio Ghinasi
 - Dr. Matteo Tagliazucchi 
 
