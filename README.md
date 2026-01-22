@@ -5,7 +5,7 @@ focused Enhancing the Transient gravitational-wave detection method through the 
 
 The project includes scripts and notebooks for correlated noise generation,
 data preprocessing, signal injection, model training, testing and performance evaluation
-on simulated gravitational-wave data.
+on gravitational wave data.
 
 ## Author
 Gopal Ale Magar  
