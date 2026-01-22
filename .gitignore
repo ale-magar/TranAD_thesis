@@ -1,0 +1,19 @@
+
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# data and outputs/
+data/
+processed/
+checkpoints/
+
+# macOS junk
+__MACOSX/
+.DS_Store

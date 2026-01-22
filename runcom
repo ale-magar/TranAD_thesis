@@ -1,0 +1,1 @@
+python3 main_multiple_tests_ROC_sim.py --model TranAD --dataset dataset_name --test_name path_to_directory_for_saving_statistics --retrain 
