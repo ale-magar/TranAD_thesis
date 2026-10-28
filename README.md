@@ -15,8 +15,7 @@ University of Bologna (Astrophysics and Cosmology)
 - Prof. Elena Cuoco
 
 ## Co-supervisors
-- Dr. Antonio Ghinasi
-- Dr. Matteo Tagliazucchi 
+- Prof. IK Siong Heng
 
 ## Notes
 This is a private repository intended for thesis development and academic review.
